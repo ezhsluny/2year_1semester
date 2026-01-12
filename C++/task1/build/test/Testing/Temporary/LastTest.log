@@ -1,0 +1,91 @@
+Start testing: Oct 28 10:17 +07
+----------------------------------------------------------
+1/1 Testing: circ_buff_tests
+1/1 Test: circ_buff_tests
+Command: "/home/ezhsluny/Documents/C++/task1/build/test/circ_buff_tests"
+Directory: /home/ezhsluny/Documents/C++/task1/build/test
+"circ_buff_tests" start time: Oct 28 10:17 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/ezhsluny/Documents/C++/task1/googletest/googletest/src/gtest_main.cc
+[==========] Running 12 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from CircullarBufferTest
+[ RUN      ] CircullarBufferTest.FailedTest
+/home/ezhsluny/Documents/C++/task1/test/circ_buff_test.cpp:6: Failure
+Value of: false
+  Actual: false
+Expected: true
+
+[  FAILED  ] CircullarBufferTest.FailedTest (0 ms)
+[----------] 1 test from CircullarBufferTest (0 ms total)
+
+[----------] 11 tests from CircularBufferTest
+[ RUN      ] CircularBufferTest.Constructor
+New empty circullar buffer was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.Constructor (0 ms)
+[ RUN      ] CircularBufferTest.ConstructorWithCapacity
+New circullar buffer of capacity 5 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.ConstructorWithCapacity (0 ms)
+[ RUN      ] CircularBufferTest.ConstructorWithElem
+New circullar buffer with elems  of capacity 5 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.ConstructorWithElem (0 ms)
+[ RUN      ] CircularBufferTest.CopyConstructor
+New circullar buffer with elems  of capacity 5 was constructed
+Buffer was copied to new-created buffer
+Circular buffer was deleted
+Circular buffer was deleted
+[       OK ] CircularBufferTest.CopyConstructor (0 ms)
+[ RUN      ] CircularBufferTest.Idxs
+New circullar buffer with elems  of capacity 5 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.Idxs (0 ms)
+[ RUN      ] CircularBufferTest.FrontBackElem
+New circullar buffer of capacity 3 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.FrontBackElem (0 ms)
+[ RUN      ] CircularBufferTest.Rotate
+New circullar buffer of capacity 3 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.Rotate (0 ms)
+[ RUN      ] CircularBufferTest.FullReserve
+New circullar buffer with elems  of capacity 10 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.FullReserve (0 ms)
+[ RUN      ] CircularBufferTest.SetCapacityResize
+New circullar buffer with elems  of capacity 10 was constructed
+Circular buffer was deleted
+[       OK ] CircularBufferTest.SetCapacityResize (0 ms)
+[ RUN      ] CircularBufferTest.AssignmentOperator
+New circullar buffer with elems  of capacity 10 was constructed
+New circullar buffer of capacity 10 was constructed
+Circular buffer was deleted
+Circular buffer was deleted
+[       OK ] CircularBufferTest.AssignmentOperator (0 ms)
+[ RUN      ] CircularBufferTest.Swap
+New circullar buffer with elems  of capacity 10 was constructed
+New circullar buffer with elems ø of capacity 10 was constructed
+Circular buffer was deleted
+Circular buffer was deleted
+[       OK ] CircularBufferTest.Swap (0 ms)
+[----------] 11 tests from CircularBufferTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 12 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 11 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] CircullarBufferTest.FailedTest
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"circ_buff_tests" end time: Oct 28 10:17 +07
+"circ_buff_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 28 10:17 +07

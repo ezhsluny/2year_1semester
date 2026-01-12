@@ -1,0 +1,4 @@
+#Life 1.06
+#N TestUniverse
+#R B3/S23
+2 2

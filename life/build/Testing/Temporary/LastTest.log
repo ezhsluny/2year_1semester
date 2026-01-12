@@ -1,0 +1,19 @@
+Start testing: Dec 28 16:53 +07
+----------------------------------------------------------
+Unable to find executable: /home/ezhsluny/Documents/life/build/tests/test_lifeZ
+1/1 Testing: test_lifeZ
+1/1 Test: test_lifeZ
+Command: ""
+Directory: /home/ezhsluny/Documents/life/build/tests
+"test_lifeZ" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_lifeZ" end time: Dec 28 16:53 +07
+"test_lifeZ" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 28 16:53 +07

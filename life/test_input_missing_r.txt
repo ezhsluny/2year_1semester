@@ -1,0 +1,4 @@
+#Life 1.06
+#N TestUniverse
+#S 5 5
+2 2

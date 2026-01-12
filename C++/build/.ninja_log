@@ -1,0 +1,13 @@
+# ninja log v5
+14637	14920	1732857106096152804	test/circ_buff_tests	d12c403f4d2e41f7
+14616	14672	1732857105850142431	lib/libgmock.a	f7ffb6ec47a00738
+1353	1435	1732857092608584898	libcirc_buff.a	4f3d5e0f360cb13
+14491	14616	1732857105777139354	lib/libgtest.a	9408b30c02da2db9
+4	14490	1732857105655134210	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c0ab6eb4e070ca0b
+6	6502	1732857097663797565	test/CMakeFiles/circ_buff_tests.dir/circ_buff_test.cpp.o	a1152fc1169e9a80
+3	1351	1732857092520581198	CMakeFiles/circ_buff.dir/circ_buff.cpp.o	698e1ba891fbba3a
+3	9475	1732857100647923210	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	e4f65d80a926308e
+14672	14693	1732857105872143359	lib/libgmock_main.a	bb659b6097a1b56b
+5	6374	1732857097551792851	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	64513568786d492f
+4	7444	1732857098621837894	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	c7d77f33bdccbf0
+14616	14635	1732857105815140956	lib/libgtest_main.a	f99fde8b786e4d2b

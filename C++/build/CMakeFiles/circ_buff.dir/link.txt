@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcirc_buff.a CMakeFiles/circ_buff.dir/circ_buff.cpp.o
+/usr/bin/ranlib libcirc_buff.a

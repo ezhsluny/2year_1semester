@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/circ_buff.dir/circ_buff.cpp.o -c /home/ezhsluny/Documents/C++/task1/circ_buff.cpp",
+  "file": "/home/ezhsluny/Documents/C++/task1/circ_buff.cpp",
+  "output": "CMakeFiles/circ_buff.dir/circ_buff.cpp.o"
+},
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build/googletest/googlemock",
+  "command": "/usr/bin/g++  -I/home/ezhsluny/Documents/C++/task1/googletest/googlemock/include -I/home/ezhsluny/Documents/C++/task1/googletest/googlemock -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest/include -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/ezhsluny/Documents/C++/task1/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/ezhsluny/Documents/C++/task1/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build/googletest/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/ezhsluny/Documents/C++/task1/googletest/googlemock/include -isystem /home/ezhsluny/Documents/C++/task1/googletest/googlemock -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest/include -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/ezhsluny/Documents/C++/task1/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/ezhsluny/Documents/C++/task1/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build/googletest/googletest",
+  "command": "/usr/bin/g++  -I/home/ezhsluny/Documents/C++/task1/googletest/googletest/include -I/home/ezhsluny/Documents/C++/task1/googletest/googletest -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ezhsluny/Documents/C++/task1/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/ezhsluny/Documents/C++/task1/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build/googletest/googletest",
+  "command": "/usr/bin/g++  -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest/include -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest -g -std=c++14 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ezhsluny/Documents/C++/task1/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/ezhsluny/Documents/C++/task1/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/ezhsluny/Documents/C++/task1/build/test",
+  "command": "/usr/bin/g++  -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest/include -isystem /home/ezhsluny/Documents/C++/task1/googletest/googletest -g -std=gnu++14 -o CMakeFiles/circ_buff_tests.dir/circ_buff_test.cpp.o -c /home/ezhsluny/Documents/C++/task1/test/circ_buff_test.cpp",
+  "file": "/home/ezhsluny/Documents/C++/task1/test/circ_buff_test.cpp",
+  "output": "test/CMakeFiles/circ_buff_tests.dir/circ_buff_test.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/circ_buff_tests.dir/circ_buff_test.cpp.o -o circ_buff_tests  ../lib/libgtest_main.a ../libcirc_buff.a ../lib/libgtest.a 

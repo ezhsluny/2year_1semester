@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/test_lifeZ.dir/link.d CMakeFiles/test_lifeZ.dir/test_GameOfLife.cpp.o -o test_lifeZ  ../lib/libgtest_main.a -lGameOfLife ../lib/libgtest.a

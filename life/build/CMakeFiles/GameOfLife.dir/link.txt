@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/GameOfLife.dir/link.d CMakeFiles/GameOfLife.dir/main.cpp.o CMakeFiles/GameOfLife.dir/GameOfLife.cpp.o -o GameOfLife

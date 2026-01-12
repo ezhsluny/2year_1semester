@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241129-0509-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="ezhsluny-730U3E-740U3E"
+	OSRelease="6.8.0-49-generic"
+	OSVersion="#49-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov  4 02:06:24 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ModelName="Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3799"
+	TotalPhysicalMemory="3800"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2494.16"
+	>
+	<Testing>
+		<StartDateTime>Nov 29 12:09 +07</StartDateTime>
+		<StartTestTime>1732856995</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 29 12:09 +07</EndDateTime>
+		<EndTestTime>1732856995</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

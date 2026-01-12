@@ -1,0 +1,5 @@
+if(EXISTS "/home/ezhsluny/Documents/C++/task1/build/test/circularb_test[1]_tests.cmake")
+  include("/home/ezhsluny/Documents/C++/task1/build/test/circularb_test[1]_tests.cmake")
+else()
+  add_test(circularb_test_NOT_BUILT circularb_test_NOT_BUILT)
+endif()
